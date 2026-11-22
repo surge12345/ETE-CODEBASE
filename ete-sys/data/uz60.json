@@ -1,0 +1,601 @@
+{
+ "name": "uz_n60_s1",
+ "venues": [
+  479,
+  292,
+  255,
+  182,
+  182,
+  164,
+  146,
+  127
+ ],
+ "exams": [
+  {
+   "code": "LAW1000",
+   "size": 218,
+   "lecturers": [
+    0
+   ]
+  },
+  {
+   "code": "ENG2001",
+   "size": 553,
+   "lecturers": [
+    4
+   ]
+  },
+  {
+   "code": "MED3002",
+   "size": 260,
+   "lecturers": [
+    9
+   ]
+  },
+  {
+   "code": "ENG4003",
+   "size": 244,
+   "lecturers": [
+    4
+   ]
+  },
+  {
+   "code": "SOC1004",
+   "size": 160,
+   "lecturers": [
+    13
+   ]
+  },
+  {
+   "code": "SOC2005",
+   "size": 115,
+   "lecturers": [
+    11
+   ]
+  },
+  {
+   "code": "SOC3006",
+   "size": 206,
+   "lecturers": [
+    12
+   ]
+  },
+  {
+   "code": "AGR4007",
+   "size": 52,
+   "lecturers": [
+    16
+   ]
+  },
+  {
+   "code": "ART1008",
+   "size": 164,
+   "lecturers": [
+    19
+   ]
+  },
+  {
+   "code": "ENG2009",
+   "size": 115,
+   "lecturers": [
+    7
+   ]
+  },
+  {
+   "code": "LAW1010",
+   "size": 239,
+   "lecturers": [
+    0
+   ]
+  },
+  {
+   "code": "ENG2011",
+   "size": 188,
+   "lecturers": [
+    6
+   ]
+  },
+  {
+   "code": "MED3012",
+   "size": 260,
+   "lecturers": [
+    9
+   ]
+  },
+  {
+   "code": "ENG4013",
+   "size": 244,
+   "lecturers": [
+    2
+   ]
+  },
+  {
+   "code": "SOC1014",
+   "size": 176,
+   "lecturers": [
+    11
+   ]
+  },
+  {
+   "code": "SOC2015",
+   "size": 116,
+   "lecturers": [
+    10
+   ]
+  },
+  {
+   "code": "SOC3016",
+   "size": 206,
+   "lecturers": [
+    13
+   ]
+  },
+  {
+   "code": "AGR4017",
+   "size": 47,
+   "lecturers": [
+    16
+   ]
+  },
+  {
+   "code": "ART1018",
+   "size": 164,
+   "lecturers": [
+    18
+   ]
+  },
+  {
+   "code": "ENG2019",
+   "size": 112,
+   "lecturers": [
+    7
+   ]
+  },
+  {
+   "code": "LAW1020",
+   "size": 218,
+   "lecturers": [
+    0
+   ]
+  },
+  {
+   "code": "ENG2021",
+   "size": 213,
+   "lecturers": [
+    5
+   ]
+  },
+  {
+   "code": "MED3022",
+   "size": 282,
+   "lecturers": [
+    9
+   ]
+  },
+  {
+   "code": "ENG4023",
+   "size": 264,
+   "lecturers": [
+    6
+   ]
+  },
+  {
+   "code": "SOC1024",
+   "size": 180,
+   "lecturers": [
+    11
+   ]
+  },
+  {
+   "code": "SOC2025",
+   "size": 99,
+   "lecturers": [
+    15
+   ]
+  },
+  {
+   "code": "SOC3026",
+   "size": 206,
+   "lecturers": [
+    15
+   ]
+  },
+  {
+   "code": "AGR4027",
+   "size": 52,
+   "lecturers": [
+    17
+   ]
+  },
+  {
+   "code": "ART1028",
+   "size": 164,
+   "lecturers": [
+    18
+   ]
+  },
+  {
+   "code": "ENG2029",
+   "size": 112,
+   "lecturers": [
+    6
+   ]
+  },
+  {
+   "code": "LAW1030",
+   "size": 218,
+   "lecturers": [
+    0
+   ]
+  },
+  {
+   "code": "ENG2031",
+   "size": 478,
+   "lecturers": [
+    5
+   ]
+  },
+  {
+   "code": "MED3032",
+   "size": 260,
+   "lecturers": [
+    9
+   ]
+  },
+  {
+   "code": "ENG4033",
+   "size": 244,
+   "lecturers": [
+    7
+   ]
+  },
+  {
+   "code": "SOC1034",
+   "size": 164,
+   "lecturers": [
+    15
+   ]
+  },
+  {
+   "code": "SOC2035",
+   "size": 99,
+   "lecturers": [
+    13
+   ]
+  },
+  {
+   "code": "SOC3036",
+   "size": 206,
+   "lecturers": [
+    10
+   ]
+  },
+  {
+   "code": "AGR4037",
+   "size": 47,
+   "lecturers": [
+    17
+   ]
+  },
+  {
+   "code": "ART1038",
+   "size": 155,
+   "lecturers": [
+    18
+   ]
+  },
+  {
+   "code": "ENG2039",
+   "size": 116,
+   "lecturers": [
+    3
+   ]
+  },
+  {
+   "code": "LAW1040",
+   "size": 218,
+   "lecturers": [
+    0
+   ]
+  },
+  {
+   "code": "ENG2041",
+   "size": 208,
+   "lecturers": [
+    4
+   ]
+  },
+  {
+   "code": "MED3042",
+   "size": 260,
+   "lecturers": [
+    8
+   ]
+  },
+  {
+   "code": "ENG4043",
+   "size": 248,
+   "lecturers": [
+    2
+   ]
+  },
+  {
+   "code": "SOC1044",
+   "size": 160,
+   "lecturers": [
+    12
+   ]
+  },
+  {
+   "code": "SOC2045",
+   "size": 132,
+   "lecturers": [
+    12
+   ]
+  },
+  {
+   "code": "SOC3046",
+   "size": 185,
+   "lecturers": [
+    15
+   ]
+  },
+  {
+   "code": "AGR4047",
+   "size": 52,
+   "lecturers": [
+    16
+   ]
+  },
+  {
+   "code": "ART1048",
+   "size": 164,
+   "lecturers": [
+    19
+   ]
+  },
+  {
+   "code": "ENG2049",
+   "size": 115,
+   "lecturers": [
+    6
+   ]
+  },
+  {
+   "code": "LAW1050",
+   "size": 222,
+   "lecturers": [
+    1
+   ]
+  },
+  {
+   "code": "ENG2051",
+   "size": 191,
+   "lecturers": [
+    3
+   ]
+  },
+  {
+   "code": "MED3052",
+   "size": 266,
+   "lecturers": [
+    8
+   ]
+  },
+  {
+   "code": "ENG4053",
+   "size": 254,
+   "lecturers": [
+    6
+   ]
+  },
+  {
+   "code": "SOC1054",
+   "size": 160,
+   "lecturers": [
+    10
+   ]
+  },
+  {
+   "code": "SOC2055",
+   "size": 116,
+   "lecturers": [
+    14
+   ]
+  },
+  {
+   "code": "SOC3056",
+   "size": 206,
+   "lecturers": [
+    11
+   ]
+  },
+  {
+   "code": "AGR4057",
+   "size": 650,
+   "lecturers": [
+    17
+   ]
+  },
+  {
+   "code": "ART1058",
+   "size": 155,
+   "lecturers": [
+    18
+   ]
+  },
+  {
+   "code": "ENG2059",
+   "size": 112,
+   "lecturers": [
+    7
+   ]
+  }
+ ],
+ "cohorts": {
+  "0": [
+   0,
+   1,
+   10,
+   20,
+   30,
+   40,
+   50
+  ],
+  "1": [
+   10,
+   39,
+   50
+  ],
+  "2": [
+   9,
+   49
+  ],
+  "3": [
+   1,
+   11,
+   21,
+   31,
+   41,
+   51
+  ],
+  "4": [
+   1,
+   10,
+   41
+  ],
+  "5": [
+   2,
+   12,
+   22,
+   32,
+   42,
+   52,
+   57
+  ],
+  "6": [
+   1,
+   21,
+   41,
+   51
+  ],
+  "7": [
+   1,
+   11,
+   21,
+   31
+  ],
+  "8": [
+   3,
+   13,
+   23,
+   33,
+   43,
+   53,
+   57
+  ],
+  "9": [
+   22,
+   52,
+   53
+  ],
+  "10": [
+   22,
+   23
+  ],
+  "11": [
+   4,
+   14,
+   24,
+   34,
+   44,
+   54
+  ],
+  "12": [
+   23,
+   24,
+   34,
+   43,
+   53
+  ],
+  "13": [
+   5,
+   15,
+   25,
+   35,
+   45,
+   55,
+   57
+  ],
+  "14": [
+   5,
+   14,
+   24,
+   45
+  ],
+  "15": [
+   15,
+   45,
+   55
+  ],
+  "16": [
+   6,
+   16,
+   26,
+   31,
+   36,
+   46,
+   56
+  ],
+  "17": [
+   6,
+   16,
+   26,
+   36,
+   56
+  ],
+  "18": [
+   7,
+   17,
+   27,
+   37,
+   47,
+   57
+  ],
+  "19": [
+   7,
+   27,
+   47
+  ],
+  "20": [
+   8,
+   18,
+   28,
+   38,
+   48,
+   58
+  ],
+  "21": [
+   8,
+   18,
+   28,
+   48
+  ],
+  "22": [
+   1,
+   9,
+   19,
+   29,
+   31,
+   39,
+   49,
+   59
+  ],
+  "23": [
+   19,
+   29,
+   39,
+   59
+  ]
+ }
+}

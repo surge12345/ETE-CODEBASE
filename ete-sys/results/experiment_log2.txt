@@ -1,0 +1,11 @@
+[density]
+  density 0.05 done
+  density 0.1 done
+  density 0.2 done
+  density 0.3 done
+  density 0.5 done
+  density 0.7 done
+  wrote /home/claude/ete-project/experiments/../results/exp3_density.csv (90 rows)
+[trace]
+  wrote /home/claude/ete-project/experiments/../results/exp6_trace.csv (10 rows)
+all experiments finished in 163s

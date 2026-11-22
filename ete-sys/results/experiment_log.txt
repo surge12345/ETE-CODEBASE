@@ -1,0 +1,29 @@
+[pruning]
+  pruning: random done
+  pruning: uz done
+  wrote /home/claude/ete-project/experiments/../results/exp1_pruning.csv (668 rows)
+[bounds]
+  wrote /home/claude/ete-project/experiments/../results/exp4_bounds.csv (96 rows)
+[crown]
+  wrote /home/claude/ete-project/experiments/../results/exp5_crown.csv (10 rows)
+[scaling]
+  scaling: random n=10 done
+  scaling: random n=25 done
+  scaling: random n=50 done
+  scaling: random n=100 done
+  scaling: random n=200 done
+  scaling: random n=300 done
+  scaling: random n=500 done
+  scaling: uz n=10 done
+  scaling: uz n=25 done
+  scaling: uz n=50 done
+  scaling: uz n=100 done
+  scaling: uz n=200 done
+  scaling: uz n=300 done
+  scaling: uz n=500 done
+  wrote /home/claude/ete-project/experiments/../results/exp2_scaling.csv (550 rows)
+[density]
+  density 0.05 done
+  density 0.1 done
+  density 0.2 done
+  density 0.3 done
